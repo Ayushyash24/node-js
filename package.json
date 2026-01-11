@@ -1,0 +1,25 @@
+{
+  "name": "node-2025",
+  "version": "1.0.0",
+  "description": "node js concepts",
+  "homepage": "https://github.com/Ayushyash24/node-js#readme",
+  "bugs": {
+    "url": "https://github.com/Ayushyash24/node-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushyash24/node-js.git"
+  },
+  "license": "ISC",
+  "author": "Ayush Yash Dwivedi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.11"
+  }
+}
